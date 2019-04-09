@@ -89,7 +89,6 @@ public class Prueba {
         System.out.println(vinicio);
         System.out.println(pedro);
         System.out.println(david);
-
     }
 
 }
